@@ -1,0 +1,40 @@
+
+h1 {
+	text-align: center;
+	padding: 23px;
+	background-color: skyblue;
+	color: black;
+	}
+
+ #clear{
+     width:60px;
+     border: 3px solid gray;
+     border-radius: 3px;
+     padding: 5px;
+     background-color: rgba(255, 0, 0, 0.39);
+    }
+
+.cal  {
+    width: 300px;
+    height: 530px;
+    margin: auto;
+    border: 3px solid skyblue;
+    border-radius: 5px;
+    padding: 20px;
+    }
+   
+ input{
+    width: 25px;
+    background-color: rgb(208, 151, 194);
+    color: black;
+    border: 3px solid gray;
+	border-radius: 5px;
+	padding: 28px;
+	margin: 5px;
+	font-size: 20px;
+    }
+
+     #result{
+        color:white;
+        width:150px;
+     }
